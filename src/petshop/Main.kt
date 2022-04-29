@@ -12,7 +12,7 @@ fun main() {
     println("-------------------------")
 
 
-    gatinho.cadastrarTutor()
+    gatinho.cadastrarTutorGato()
     println("Cadastrar seu Pet:")
     gatinho.cadastrarGato()
     println("...")
@@ -21,7 +21,7 @@ fun main() {
 
 
     println("------------------")
-    cachorrinho.cadastrarTutor()
+    cachorrinho.cadastrarTutorCachorro()
     println("Cadastrar seu Pet:")
     cachorrinho.cadastrarCachorro()
     println("...")
@@ -29,7 +29,7 @@ fun main() {
     cachorrinho.vacinarCachorro()
 
     println("------------------")
-    peixinho.cadastrarTutor()
+    peixinho.cadastrarTutorPeixe()
     println("Cadastrar seu Pet:")
     peixinho.cadastrarPeixe()
     println("...")

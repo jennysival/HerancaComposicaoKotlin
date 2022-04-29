@@ -1,17 +1,17 @@
 package petshop
 
-open class AnimalPet(val especieDoPet: String, val nomeDoPet: String, val nomeTutor: String) {
-    fun exibirPetCadastrado(){
+open class AnimalPet(private val especieDoPet: String, private val nomeDoPet: String, private val nomeTutor: String) {
+    protected fun exibirPetCadastrado(){
         println("Seu $especieDoPet se chama $nomeDoPet")
     }
 
-    fun vacinarPetCadastrado(){
+    protected fun vacinarPetCadastrado(){
         println("$nomeDoPet está sendo vacinado :)")
         println("...")
         println("Obrigada por vacinar seu $especieDoPet")
     }
 
-    fun cadastrarTutor(){
+    protected fun cadastrarTutor(){
         println("Olá, $nomeTutor!")
     }
 }

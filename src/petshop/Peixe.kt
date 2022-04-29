@@ -8,4 +8,8 @@ class Peixe: AnimalPet("Peixinho Dourado", "Cleo", "Jenny e Gabe") {
     fun vacinarPeixe(){
         vacinarPetCadastrado()
     }
+
+    fun cadastrarTutorPeixe(){
+        cadastrarTutor()
+    }
 }

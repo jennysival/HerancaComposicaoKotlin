@@ -9,4 +9,8 @@ class Cachorro: AnimalPet("Cachorro", "Melancia", "Gabe") {
         vacinarPetCadastrado()
     }
 
+    fun cadastrarTutorCachorro(){
+        cadastrarTutor()
+    }
+
 }
