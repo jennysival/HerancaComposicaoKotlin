@@ -11,3 +11,16 @@ Crie um sistema bancário de criação de contas, onde a pessoa possa
 criar uma conta salário ou uma conta poupança ou conta corrente.
 Crie alguns objetos exemplo e mostre na tela o tipo da conta, o saldo
 e o nome da pessoa.
+------------------------------
+
+Construa um sistema para supermercados onde o cliente possa
+registrar 3 ou mais tipos de produtos diferentes onde, cada produto
+tenha nome, código de barras e data de validade. Crie alguns objetos
+exemplo e mostre os produtos cadastrados.
+
+CocaCola == é um PRODUTO
+Doritos == é um PRODUTO
+Cheddar == é um PRODUTO
+
+Supermercado == tem um PRODUTO
+Supermercado == tem um Cliente
