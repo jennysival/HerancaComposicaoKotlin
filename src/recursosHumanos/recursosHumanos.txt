@@ -1,0 +1,5 @@
+Crie um sistema de controle de Recursos Humanos (RH) no qual a
+pessoa usuária possa registrar 3 ou mais perfis de funcionários onde
+cada funcionário tem nome completo, setor, salário e data de admissão.
+Crie alguns objetos exemplo e mostre em tela as
+informações de cada funcionário criado.

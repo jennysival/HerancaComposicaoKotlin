@@ -1,0 +1,6 @@
+Elabore um programa de controle de times para o estado onde você
+mora, esse programa deve permitir o registro do nome do time,
+quantas pessoas jogadores o time tem, quantas vitórias o time teve
+até o momento esse ano (2022) e qual o esporte que o time joga. Crie
+alguns objetos exemplo e mostre em tela as informações de cada
+time criado.

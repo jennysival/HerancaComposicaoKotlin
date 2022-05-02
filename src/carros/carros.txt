@@ -1,0 +1,16 @@
+Após a sua formação no Catalisa, o pessoal te redirecionou para o
+cliente chamado ICarros. No seu primeiro dia de trabalho , a sua tech
+lead te pediu que crie um sistema simples de registro de carros para
+que o time comece a catalogar os tipos de carros que o cliente
+possui para financiamento. Ela te passou que, por enquanto, o cliente
+trabalha apenas com 5 modelos de carros diferentes e todos os
+carros possuem as seguintes informações:
+- Marca;
+- Modelo;
+- Ano;
+- Valor;
+- Cor;
+- Portas.
+Ela também te pediu para deixar alguns exemplos de carros feitos
+para que, quando o time rodar o programa, as pessoas possam ver como
+fica o registro desses carros no sistema.
